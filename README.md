@@ -10,7 +10,6 @@ This project is a digital version of the classic Simon Game, where players have 
 
 ## Technologies Used
 - **Frontend:** HTML, CSS, JavaScript
-- **Backend (if applicable):** [Specify if you're using any backend technologies, such as Django, Flask, etc.]
 - **Version Control:** Git & GitHub
 
 ## Installation
